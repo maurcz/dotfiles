@@ -43,13 +43,19 @@ Install fonts from: https://github.com/romkatv/powerlevel10k#fonts and follow in
 ```
 {
     "bellStyle": "none",
+    "colorScheme": "Campbell",
     "font":
     {
         "face": "MesloLGS NF",
-        "size": 10,
+        "size": 10.0,
         "weight": "medium"
     },
+    "guid": <profile guid>,
+    ...
 }
 ```
 
+Make sure the profile is set as default in Terminal's configs.
+
+M
 Change color scheme to `Campbell`.
